@@ -1,0 +1,17 @@
+origem,destino,distancia_km
+Francisco Morato,Franco da Rocha,6
+Franco da Rocha,Caieiras,9
+Franco da Rocha,Mairipora,24
+Caieiras,Cajamar,14
+Caieiras,Sao Paulo,33
+Cajamar,Osasco,22
+Osasco,Sao Paulo,19
+Sao Paulo,Guarulhos,18
+Guarulhos,Mairipora,27
+Francisco Morato,Varzea Paulista,16
+Varzea Paulista,Campo Limpo Paulista,5
+Varzea Paulista,Jundiai,9
+Campo Limpo Paulista,Jundiai,12
+Jundiai,Atibaia,35
+Atibaia,Mairipora,33
+Atibaia,Guarulhos,45
